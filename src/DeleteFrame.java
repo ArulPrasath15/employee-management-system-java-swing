@@ -11,6 +11,7 @@ class DeleteFrame extends JFrame {
     JTextField txtID;
     JButton btnDel, btnBack;
 
+
     DeleteFrame() {
         super("  Delete Employee  ");
         setSize(500, 150);

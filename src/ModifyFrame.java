@@ -11,6 +11,7 @@ class ModifyFrame extends JFrame {
     JTextField txtID, txtName;
     JButton btnSave, btnBack;
 
+
     ModifyFrame() {
         super("  Modify Employee  ");
         setSize(500, 150);

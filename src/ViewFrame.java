@@ -9,6 +9,7 @@ class ViewFrame extends JFrame {
     JTextArea ta;
     JScrollPane sp1;
 
+
     ViewFrame() {
         super("  View all Employees  ");
         setSize(500, 150);

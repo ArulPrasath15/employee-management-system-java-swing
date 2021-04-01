@@ -10,6 +10,7 @@ class HomeFrame extends JFrame {
 
     JButton btnAdd, btnModify, btnDelete, btnView;
 
+
     HomeFrame() {
         super("  Home Frame  ");
         setSize(500, 150);
@@ -74,6 +75,8 @@ class HomeFrame extends JFrame {
 
 
 }
+
+
 
 class DatabaseHandler {
     static Connection con;
